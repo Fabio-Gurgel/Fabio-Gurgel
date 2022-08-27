@@ -1,6 +1,4 @@
 # Fábio Gurgel
-![9f1d582d5a8045fec25f03530d73dd24](https://user-images.githubusercontent.com/110734237/187012282-52a5f9a6-f69b-4783-89df-60c0fa895506.gif)
-
 ### Aoba! Bem-vindo(a) ao meu perfil GitHub! :heart:
 Tenho 19 anos e moro em Teresópolis, RJ. Sou iniciante no mundo da programação e estou na jornada de me tornar um DEV.
 
