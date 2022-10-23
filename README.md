@@ -8,23 +8,32 @@ Tenho 19 anos e moro em Teresópolis, RJ. Sou iniciante no mundo da programaçã
 
 ##
 
+<div>
+    
 ###  :bar_chart: Meus stats e liguagens mais utilizadas:
 
-<div>
+
 <a href="https://github.com/Fabio-Gurgel">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Fabio-Gurgel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Gurgel&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-##
-
-### ☕ Linguagens que uso:
-
 <div style="display: inline_block"><br>
     <img align="center" alt="gurgel-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+    
    <img align="center" alt="gurgel-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+    
   <img align="center" alt="gurgel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="gurgel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+    
+  <img align="center" alt="gurgel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    
+  <img align="center" alt="gurgel-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+    
+<img align="center" alt="gurgel-Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>
+
+<img align="center" alt="gurgel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+    
+<img align="center" alt="gurgel-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 
 </div>
 
