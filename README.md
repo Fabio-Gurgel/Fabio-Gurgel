@@ -40,7 +40,7 @@ Tenho 19 anos e moro em Teresópolis, RJ. Sou iniciante no mundo da programaçã
 
   ### 📅 Histórico de commits:
  
-  ![Snake gif](https://github.com/Fabio-Gurge/Fabio-Gurgel/blob/output/github-contribution-grid-snake.svg)
+  ![Snake gif](https://github.com/Fabio-Gurgel/Fabio-Gurgel/blob/output/github-contribution-grid-snake.svg)
  
 
 
