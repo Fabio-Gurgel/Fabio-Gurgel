@@ -38,6 +38,8 @@ Tenho 19 anos e moro em Teresópolis, RJ. Sou iniciante no mundo da programaçã
   <a href="https://www.linkedin.com/in/f%C3%A1bio-gurgel-6b6b17240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+##
+
   ### 📅 Histórico de commits:
  
   ![Snake gif](https://github.com/Fabio-Gurgel/Fabio-Gurgel/blob/output/github-contribution-grid-snake.svg)
