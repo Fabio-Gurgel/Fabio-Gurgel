@@ -14,7 +14,6 @@ Tenho 19 anos e moro em Teresópolis, RJ. Sou iniciante no mundo da programaçã
 
 
 
-
 <!--!
 **Fabio-Gurgel/Fabio-Gurgel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
