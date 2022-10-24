@@ -1,16 +1,21 @@
 # Fábio Gurgel
 ### Aoba! Bem-vindo(a) ao meu perfil GitHub! ❤️
-Tenho 19 anos e moro em Teresópolis, RJ. Sou iniciante no mundo da programação e estou na jornada de me tornar um DEV.
+Tenho 19 anos e moro em Teresópolis, RJ.</br>
+Sou iniciante no mundo da programação e estou na jornada de me profissionalizar nessa aréa que sou apaixonado desde 2020.
 
-### Sobre mim:
-- 🌱 Aluno do programa SERRATEC Residência em TIC | Software 2022.2.
-<br/>
+<img src="https://user-images.githubusercontent.com/110734237/197425419-a282a1cd-b526-44f3-a1f7-f96961b34abe.gif" width="150" height="150"/>
 
 ##
 
-<div>
+### Sobre mim:<br/><br/>
+- 🌱 Aluno do programa SERRATEC Residência em TIC | Software 2022.2. <br/><br/>
+- 💻 Futuro Júnior Developer.
+<br/>
+
+
+##
     
-###  :bar_chart: Meus stats e liguagens mais utilizadas:
+###  📊 Meus stats e liguagens mais utilizadas:
 
 
 <a href="https://github.com/Fabio-Gurgel">
@@ -53,7 +58,14 @@ Tenho 19 anos e moro em Teresópolis, RJ. Sou iniciante no mundo da programaçã
  
   ![Snake gif](https://github.com/Fabio-Gurgel/Fabio-Gurgel/blob/output/github-contribution-grid-snake.svg)
  
+<div align="center">
 
+<img src="https://user-images.githubusercontent.com/110734237/197423837-eca6dfa6-0b21-4cc0-a450-125eaf5da07b.gif" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/110734237/197424693-6364803b-5f8c-42fe-8b38-763d94bfa498.gif" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/110734237/197424720-39331881-f8c8-46a4-8e94-a3c5942d2adf.gif" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/110734237/197424780-b60df1b4-3d0c-4d78-a188-e58de50ca5b4.gif" width="80" height="80"/>
+
+</div>
 
 
 
