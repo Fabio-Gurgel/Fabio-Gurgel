@@ -1,5 +1,5 @@
 # Fábio Gurgel
-### Aoba! Bem-vindo(a) ao meu perfil GitHub! ❤️
+### Aoba! Bem-vindo(a) ao meu perfil GitHub! 💙
 Tenho 19 anos e moro em Teresópolis, RJ.</br>
 Sou iniciante no mundo da programação e estou na jornada de me profissionalizar nessa aréa que sou apaixonado desde 2020.
 
