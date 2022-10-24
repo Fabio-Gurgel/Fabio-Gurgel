@@ -9,7 +9,7 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 
 ### Sobre mim:<br/><br/>
 - 🌱 Aluno do programa SERRATEC Residência em TIC | Software 2022.2. <br/><br/>
-- 💻 Futuro Júnior Developer.
+- 💻 Futuro DEV júnior.
 <br/>
 
 
