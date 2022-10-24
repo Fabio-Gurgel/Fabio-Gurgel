@@ -68,8 +68,10 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 </div>
 
 
-
-
 <!--!
   <img align="center" alt="gurgel-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+-->
+
+<!--!
+Tá fazendo o que aqui no meu Readme? 🤔 Quer roubar meus Pokemons é? Pilantra.
 -->
