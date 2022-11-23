@@ -1,3 +1,5 @@
+
+
 # Fábio Gurgel
 ### Aoba! Bem-vindo(a) ao meu perfil GitHub! 💙
 Tenho 19 anos e moro em Teresópolis, RJ.</br>
@@ -19,9 +21,8 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 
 
 <a href="https://github.com/Fabio-Gurgel">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Fabio-Gurgel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Gurgel&layout=compact&langs_count=7&theme=radical"/>
-</div>
+    <a href="https://github.com/Fabio-Gurgel/github-readme-stats"><img alt="Gurgel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Fabio-Gurgel&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Fabio-Gurgel/github-readme-stats"><img alt="Gurgel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Gurgel&langs_count=8&count_private=true&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117" /></a>
 
 <div style="display: inline_block"><br>
     <img align="center" alt="gurgel-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
@@ -60,9 +61,13 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 
 ##
 
-  ### 📅 Histórico de commits:
+
+<a href="https://github.com/Fabio-Gurgel/github-readme-activity-graph"><img alt="Gurgel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fabio-Gurgel&bg_color=0D1117&color=B94CF7&line=F74CC3&point=FFFFFF&hide_border=true" /></a>
  
-  ![Snake gif](https://github.com/Fabio-Gurgel/Fabio-Gurgel/blob/output/github-contribution-grid-snake.svg)
+ <!--
+   ### 📅 Histórico de commits:
+ ![Snake gif](https://github.com/Fabio-Gurgel/Fabio-Gurgel/blob/output/github-contribution-grid-snake.svg)
+ -->
  
 <div align="center">
 
@@ -74,6 +79,3 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 </div>
 
 
-<!--!
-  <img align="center" alt="gurgel-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
--->
