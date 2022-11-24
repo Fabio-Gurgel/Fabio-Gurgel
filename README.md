@@ -18,10 +18,12 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 
 
 ##
-    
-###  📊 Meus stats e liguagens mais utilizadas:
 
 
+###  📊 Meus stats e liguagens mais utilizadas:<br/>
+<br/>
+
+<div align="center">
 
  <a href="https://github.com/Fabio-Gurgel">
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Fabio-Gurgel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -55,19 +57,17 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 
 ##
 
-### 📲 Contatos:
-<br/>
-<div> 
-  <a href="https://instagram.com/_gurgel.fabio" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40"></a> _
-    <a href = "mailto:fabio.cc.gurgel@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40"></a> _
-  <a href="https://www.linkedin.com/in/f%C3%A1bio-gurgel-6b6b17240/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"></a> 
-</div>
-
-##
-
 
 <a href="https://github.com/Fabio-Gurgel/github-readme-activity-graph"><img alt="Gurgel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fabio-Gurgel&bg_color=0D1117&color=B94CF7&line=F74CC3&point=62FFFC&hide_border=true" /></a>
  
+    
+    
+<a href="https://instagram.com/_gurgel.fabio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fabio_cc_gurgel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/f%C3%A1bio-gurgel-6b6b17240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+ </div>
+    
  <!--
    ### 📅 Histórico de commits:
  ![Snake gif](https://github.com/Fabio-Gurgel/Fabio-Gurgel/blob/output/github-contribution-grid-snake.svg)
