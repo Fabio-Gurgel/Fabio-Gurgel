@@ -24,8 +24,8 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 
 
  <a href="https://github.com/Fabio-Gurgel">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fabio-Gurgel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Gurgel&layout=compact&langs_count=7&theme=radical"/>
+ <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Fabio-Gurgel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Gurgel&layout=compact&langs_count=7&theme=radical"/>
 
 
 <div style="display: inline_block"><br>
@@ -45,11 +45,11 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 
 <img align="center" alt="gurgel-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
 
-<img align="center" alt="gurgel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img align="center" alt="gurgel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
 
-<img align="center" alt="gurgel-vsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img align="center" alt="gurgel-vsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30"/>
     
-<img align="center" alt="gurgel-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img align="center" alt="gurgel-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
 
 </div>
 
@@ -58,9 +58,9 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 ### 📲 Contatos:
 <br/>
 <div> 
-  <a href="https://instagram.com/_gurgel.fabio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fabio.cc.gurgel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/f%C3%A1bio-gurgel-6b6b17240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/_gurgel.fabio" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40"></a> _
+    <a href = "mailto:fabio.cc.gurgel@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40"></a> _
+  <a href="https://www.linkedin.com/in/f%C3%A1bio-gurgel-6b6b17240/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"></a> 
 </div>
 
 ##
