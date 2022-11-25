@@ -16,7 +16,7 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 - 💻 Futuro DEV júnior.
 <br/>
 
-<img src="https://user-images.githubusercontent.com/110734237/203664755-40b1afc8-2e32-4981-93b0-e2c72f0422eb.gif" width="150" height="150"/>
+<img src="https://user-images.githubusercontent.com/110734237/203664755-40b1afc8-2e32-4981-93b0-e2c72f0422eb.gif" width="120" height="120"/>
 
 ##
 
