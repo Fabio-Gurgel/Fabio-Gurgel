@@ -18,7 +18,6 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 
 <img src="https://user-images.githubusercontent.com/110734237/203664755-40b1afc8-2e32-4981-93b0-e2c72f0422eb.gif" width="150" height="150"/>
 
-
 ##
 
 
@@ -61,8 +60,6 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 
 
 <a href="https://github.com/Fabio-Gurgel/github-readme-activity-graph"><img alt="Gurgel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fabio-Gurgel&bg_color=0D1117&color=B94CF7&line=F74CC3&point=62FFFC&hide_border=true" /></a>
- 
-    
     
 <a href="https://instagram.com/_gurgel.fabio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:fabio_cc_gurgel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -73,7 +70,10 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
  <!--
    ### 📅 Histórico de commits:
  ![Snake gif](https://github.com/Fabio-Gurgel/Fabio-Gurgel/blob/output/github-contribution-grid-snake.svg)
-
+ 
+ 
+ 
+ 
  
 <div align="center">
 
@@ -81,7 +81,6 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 <img src="https://user-images.githubusercontent.com/110734237/197424693-6364803b-5f8c-42fe-8b38-763d94bfa498.gif" width="80" height="80"/>
 <img src="https://user-images.githubusercontent.com/110734237/197424720-39331881-f8c8-46a4-8e94-a3c5942d2adf.gif" width="80" height="80"/>
 <img src="https://user-images.githubusercontent.com/110734237/197424780-b60df1b4-3d0c-4d78-a188-e58de50ca5b4.gif" width="80" height="80"/>
-
 
 </div>
 
