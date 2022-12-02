@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=-+-+-+-+-+-+-+-+What's+up!+-+-+-+-+-+-+-+-;-+-+-+-+Welcome+to+my+Github+profile!+-+-+-+-)](https://git.io/typing-svg)
 
-##
+<img src="https://user-images.githubusercontent.com/110734237/205373104-77859c59-0710-4dd8-9629-a43dd26483c4.jpg" width="1200" height="1"/>
 
 
 
@@ -19,7 +19,7 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 
 <img src="https://user-images.githubusercontent.com/110734237/205339657-76075de5-d829-49a7-a098-8a6761b81794.gif" width="135" height="120"/>
 
-##
+<img src="https://user-images.githubusercontent.com/110734237/205373104-77859c59-0710-4dd8-9629-a43dd26483c4.jpg" width="1200" height="1"/>
 
 
 ###  📊 Meus stats e liguagens mais utilizadas:<br/>
@@ -57,7 +57,7 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 
 </div>
 
-##
+<img src="https://user-images.githubusercontent.com/110734237/205373104-77859c59-0710-4dd8-9629-a43dd26483c4.jpg" width="1200" height="1"/>
 
 
 ![Snake gif](https://github.com/Fabio-Gurgel/Fabio-Gurgel/blob/output/github-contribution-grid-snake.svg)
@@ -67,7 +67,7 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
   <a href = "mailto:fabio_cc_gurgel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/f%C3%A1bio-gurgel-6b6b17240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-##
+<img src="https://user-images.githubusercontent.com/110734237/205373104-77859c59-0710-4dd8-9629-a43dd26483c4.jpg" width="1200" height="1"/>
   
    <a href="https://github.com/Fabio-Gurgel/github-readme-activity-graph"><img alt="Gurgel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fabio-Gurgel&bg_color=0D1117&color=B94CF7&line=F74CC3&point=62FFFC&hide_border=true" /></a>
     
