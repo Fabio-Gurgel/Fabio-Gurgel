@@ -60,11 +60,14 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 ##
 
 
-<a href="https://github.com/Fabio-Gurgel/github-readme-activity-graph"><img alt="Gurgel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fabio-Gurgel&bg_color=0D1117&color=B94CF7&line=F74CC3&point=62FFFC&hide_border=true" /></a>
+![Snake gif](https://github.com/Fabio-Gurgel/Fabio-Gurgel/blob/output/github-contribution-grid-snake.svg)
+
+ <a href="https://github.com/Fabio-Gurgel/github-readme-activity-graph"><img alt="Gurgel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fabio-Gurgel&bg_color=0D1117&color=B94CF7&line=F74CC3&point=62FFFC&hide_border=true" /></a>
+
     
 <a href="https://instagram.com/_gurgel.fabio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:fabio_cc_gurgel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/f%C3%A1bio-gurgel-6b6b17240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/f%C3%A1bio-gurgel-6b6b17240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
  </div>
     
@@ -73,7 +76,7 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
  ![Snake gif](https://github.com/Fabio-Gurgel/Fabio-Gurgel/blob/output/github-contribution-grid-snake.svg)
  
  
- 
+ <a href="https://github.com/Fabio-Gurgel/github-readme-activity-graph"><img alt="Gurgel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fabio-Gurgel&bg_color=0D1117&color=B94CF7&line=F74CC3&point=62FFFC&hide_border=true" /></a>
  
  
 <div align="center">
