@@ -19,8 +19,7 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 
 <img src="https://user-images.githubusercontent.com/110734237/205339657-76075de5-d829-49a7-a098-8a6761b81794.gif" width="135" height="120"/>
 
-<img src="https://user-images.githubusercontent.com/110734237/205373104-77859c59-0710-4dd8-9629-a43dd26483c4.jpg" width="1200" height="1"/>
-
+##
 
 ###  📊 Meus stats e liguagens mais utilizadas:<br/>
 <br/>
