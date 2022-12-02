@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/110734237/205359279-0094f31f-dbab-44db-9190-e1d637ba65d0.gif" width="1000" height="290"/>
+<img src="https://user-images.githubusercontent.com/110734237/205359846-83bf0651-fd7e-45ff-af4d-f5a465e684d7.gif" width="1000" height="270"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=-+-+-+-+-+-+-+-+What's+up!+-+-+-+-+-+-+-+-;-+-+-+-+Welcome+to+my+Github+profile!+-+-+-+-)](https://git.io/typing-svg)
