@@ -1,22 +1,23 @@
-<img src="https://user-images.githubusercontent.com/110734237/203664887-16973cd6-b61c-49ab-bb72-93bd48ee2ffb.gif" width="1000" height="350"/>
+<img src="https://user-images.githubusercontent.com/110734237/205337421-3b8a09c2-3c73-47ae-914d-0b78e62e2578.gif" width="1000" height="350"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54acfd&size=35&center=true&vCenter=true&width=1000&lines=-+-+-+-+-+-+-+-+What's+up!+-+-+-+-+-+-+-+-;-+-+-+-+Welcome+to+my+Github+profile!+-+-+-+-)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=-+-+-+-+-+-+-+-+What's+up!+-+-+-+-+-+-+-+-;-+-+-+-+Welcome+to+my+Github+profile!+-+-+-+-)](https://git.io/typing-svg)
 
 ##
 
 
 
-### Aoba! Bem-vindo(a) ao meu perfil GitHub! 💜
+### Aoba! Bem-vindo(a) ao meu perfil GitHub! ❣️
 Tenho 19 anos e moro em Teresópolis, RJ.</br>
 Sou iniciante no mundo da programação e estou na jornada de me profissionalizar nessa aréa que sou apaixonado desde 2020.
 
 
 ### Sobre mim:<br/><br/>
-- 🌱 Aluno do programa SERRATEC Residência em TIC | Software 2022.2. <br/><br/>
+- 🍂 Aluno do programa SERRATEC Residência em TIC | Software 2022.2. <br/><br/>
 - 💻 Futuro DEV júnior.
 <br/>
 
-<img src="https://user-images.githubusercontent.com/110734237/203664755-40b1afc8-2e32-4981-93b0-e2c72f0422eb.gif" width="120" height="120"/>
+<img src="https://user-images.githubusercontent.com/110734237/205339657-76075de5-d829-49a7-a098-8a6761b81794.gif" width="135" height="120"/>
 
 ##
 
