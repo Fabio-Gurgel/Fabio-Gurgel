@@ -27,8 +27,8 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 <div align="center">
 
  <a href="https://github.com/Fabio-Gurgel">
- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Fabio-Gurgel&show_icons=true&theme=monokai&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
- <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Gurgel&layout=compact&langs_count=7&theme=monokai&hide_border=true&bg_color=0D1117"/>
+ <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Fabio-Gurgel&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+ <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Gurgel&layout=compact&langs_count=7&theme=aura_dark&hide_border=true&bg_color=0D1117"/>
 
 
 <div style="display: inline_block"><br>
