@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/110734237/205359846-83bf0651-fd7e-45ff-af4d-f5a465e684d7.gif" width="1000" height="270"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=-+-+-+-+-+-+-+-+What's+up!+-+-+-+-+-+-+-+-;-+-+-+-+Welcome+to+my+Github+profile!+-+-+-+-)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil+do+Github!;Welcome+to+my+Github+profile!;Bienvenue+sur+mon+profil+Github!;¡Bienvenido+a+mi+perfil+de+Github!;Benvenuto+nel+mio+profilo+Github!;Willkommen+auf+meinem+Github-Profil!;Добро+пожаловать+в+мой+профиль+на+Github!;私のGithubプロフィールへようこそ！)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/110734237/205373104-77859c59-0710-4dd8-9629-a43dd26483c4.jpg" width="1200" height="1"/>
 
