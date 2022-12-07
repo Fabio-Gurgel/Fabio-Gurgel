@@ -17,7 +17,17 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
 - 💻 Futuro DEV júnior.
 <br/>
 
+
+
+<div align="center">
 <img src="https://user-images.githubusercontent.com/110734237/205339657-76075de5-d829-49a7-a098-8a6761b81794.gif" width="135" height="120"/>
+<br/><br/>
+
+    
+<a href="https://instagram.com/_gurgel.fabio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fabio_cc_gurgel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/f%C3%A1bio-gurgel-6b6b17240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ##
 
@@ -29,9 +39,11 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
  <a href="https://github.com/Fabio-Gurgel">
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Fabio-Gurgel&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Gurgel&layout=compact&langs_count=7&theme=aura_dark&hide_border=true&bg_color=0D1117"/>
+ 
+ </div>
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
     <img align="center" alt="gurgel-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
     
    <img align="center" alt="gurgel-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
@@ -54,19 +66,18 @@ Sou iniciante no mundo da programação e estou na jornada de me profissionaliza
     
 <img align="center" alt="gurgel-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
 
-</div>
+
 
 ##
 
 ![Snake gif](https://github.com/Fabio-Gurgel/Fabio-Gurgel/blob/output/github-contribution-grid-snake.svg)
 
-    
-<a href="https://instagram.com/_gurgel.fabio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fabio_cc_gurgel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/f%C3%A1bio-gurgel-6b6b17240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-    
+
+ 
+>“Não sei nada sobre como superar os outros. Só conheço a maneira de superar a mim mesmo.”
  </div>
+ 
+</div>
     
     
     
