@@ -9,7 +9,7 @@
 
 ### Aoba! Bem-vindo(a) ao meu perfil GitHub! ❣️
 Tenho 20 anos e moro em Teresópolis, RJ.</br>
-Sou iniciante no mundo da programação e estou na jornada de me profissionalizar nessa aréa que sou apaixonado desde 2020.
+Sou iniciante no mundo da programação e estou na jornada de me aprimorar nessa aréa que sou apaixonado desde 2020.
 
 
 ### Sobre mim:<br/><br/>
