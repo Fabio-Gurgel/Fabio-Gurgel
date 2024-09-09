@@ -14,7 +14,7 @@ Sou iniciante no mundo da programação e estou na jornada de me aprimorar nessa
 
 ### Sobre mim:<br/><br/>
 - 🍂 Aluno do programa SERRATEC Residência em TIC | Software 2022.2. <br/><br/>
-- 💻 Atualmente atuando como Trainee na Alterdata Software.
+- 💻 Atualmente atuando como Junior na Alterdata Software.
 <br/>
 
 
