@@ -8,7 +8,7 @@
 
 
 ### Aoba! Bem-vindo(a) ao meu perfil GitHub! ❣️
-Tenho 21 anos e moro em Teresópolis, RJ.</br>
+Tenho 22 anos e moro em Teresópolis, RJ.</br>
 Sou iniciante no mundo da programação e estou na jornada de me aprimorar nessa área que sou apaixonado desde 2020.
 
 
@@ -78,22 +78,4 @@ Sou iniciante no mundo da programação e estou na jornada de me aprimorar nessa
 </div>
     
     
-    
- <!--
-   ### 📅 Histórico de commits:
- ![Snake gif](https://github.com/Fabio-Gurgel/Fabio-Gurgel/blob/output/github-contribution-grid-snake.svg)
- 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/110734237/197423837-eca6dfa6-0b21-4cc0-a450-125eaf5da07b.gif" width="80" height="80"/>
-<img src="https://user-images.githubusercontent.com/110734237/197424693-6364803b-5f8c-42fe-8b38-763d94bfa498.gif" width="80" height="80"/>
-<img src="https://user-images.githubusercontent.com/110734237/197424720-39331881-f8c8-46a4-8e94-a3c5942d2adf.gif" width="80" height="80"/>
-<img src="https://user-images.githubusercontent.com/110734237/197424780-b60df1b4-3d0c-4d78-a188-e58de50ca5b4.gif" width="80" height="80"/>
-
-
- <a href="https://github.com/Fabio-Gurgel/github-readme-activity-graph"><img alt="Gurgel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fabio-Gurgel&bg_color=0D1117&color=B94CF7&line=F74CC3&point=62FFFC&hide_border=true" /></a>
- 
-</div>
-
- -->
 
