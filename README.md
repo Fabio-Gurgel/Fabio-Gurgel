@@ -6,11 +6,11 @@
 
 ### Aoba! Bem-vindo(a) ao meu perfil GitHub! ❣️
 Tenho 23 anos e moro em Teresópolis, RJ.</br>
-Sou iniciante no mundo da programação e estou na jornada de me aprimorar nessa área que sou apaixonado desde 2020.
+Atuo profissionalmente na área desde 2023, sempre buscando me aprimorar e evoluir como desenvolvedor.
 
 ### Sobre mim:<br/><br/>
 - 🍂 Aluno do programa SERRATEC Residência em TIC | Software 2022.2. <br/><br/>
-- 💻 Atualmente atuando como Junior na Alterdata Software.
+- 💻 Atuando como Junior na Alterdata Software.
 <br/>
 
 <div align="center">
@@ -42,7 +42,7 @@ Sou iniciante no mundo da programação e estou na jornada de me aprimorar nessa
   <img align="center" alt="gurgel-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="gurgel-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="gurgel-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="gurgel-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/typescript-original.svg" />
+  <img align="center" alt="gurgel-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 
 #### 🌐 Frameworks Front-end
@@ -68,7 +68,6 @@ Sou iniciante no mundo da programação e estou na jornada de me aprimorar nessa
 
 ##
 
-![Snake gif](https://raw.githubusercontent.com/Fabio-Gurgel/Fabio-Gurgel/output/github-contribution-grid-snake.svg)
 
 > “Não sei nada sobre como superar os outros. Só conheço a maneira de superar a mim mesmo.”
 
