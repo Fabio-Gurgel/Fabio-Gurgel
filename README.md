@@ -61,7 +61,7 @@ Atuo profissionalmente na área desde 2023, sempre buscando me aprimorar e evolu
   <img align="center" alt="gurgel-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 
-#### 🤖 Automação & Testes
+#### 🤖 Automação
 <div  style="display: inline_block"><br>
   <img align="center" alt="gurgel-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 </div>
